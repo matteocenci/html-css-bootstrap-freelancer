@@ -15,4 +15,30 @@ img {
     width: 50%;
 }
 
+.first-section {
+    
+    background-color: lightgreen;
+    height: 50vh;
+}
 
+.content {
+    width: 80%;
+    background-color: aqua;
+    border-radius: 50px;
+    height: 20vh;
+}
+
+.second-section {
+    background-color: lightgrey;
+}
+
+
+.logo {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background-color: lightseagreen;
+    margin: 15px;
+}
