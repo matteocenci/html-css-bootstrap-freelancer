@@ -42,3 +42,19 @@ img {
     background-color: lightseagreen;
     margin: 15px;
 }
+
+.third-section {
+    background-color: lightskyblue;
+    height: 50vh;
+}
+
+.conthird {
+    width: 50%;
+}
+
+.fourth-section {
+    height: 50vh;
+    background-color: violet;
+    
+
+}
