@@ -33,15 +33,7 @@ img {
 }
 
 
-.logo {
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20vh;
-    background-color: lightseagreen;
-    margin: 15px;
-}
 
 .third-section {
     background-color: lightskyblue;
@@ -55,6 +47,20 @@ img {
 .fourth-section {
     height: 50vh;
     background-color: violet;
-    
 
+
+}
+
+.foot-cnt {
+    background-color: aqua;
+    
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: yellow;
+    height: 50px;
 }
