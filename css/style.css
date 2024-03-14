@@ -12,6 +12,17 @@ img {
     
 }
 
+.ms_container {
+    background-color: #1ABC9C;
+}
+
+.first-section img{
+    width: 40%;
+}
 
 
 
+.ms-col {
+    background-color: violet;
+    height: 50vh;
+}
